@@ -12,7 +12,7 @@ More specifically the analysis in this report summarizes ride-sharing data (numb
 
 **Summary Table:**
 
-![Challenge_Fig0](/analysis/Challenge_Fig0.png)
+![Challenge_Fig0](/analysis/Challenge_Fig0.PNG)
 
 There are several noteable statistics based on this table:
 1. Though there are a lot less drivers in Rural cities compared to Suburban and Urban cities, drivers in Rural cities are more often to get a fare and are more likely to make higher fares than drivers in other types of cities. The high competition for drivers in this way makes it more profitable to be a driver in Rural areas. (Note: Missing from this set of numbers if the time spent per ride which could provide more insight)
