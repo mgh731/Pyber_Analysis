@@ -11,6 +11,7 @@ More specifically the analysis in this report summarizes ride-sharing data (numb
 ### Noteable Summary Insights
 
 **Summary Table:**
+
 ![Challenge_Fig0](/Resources/Challenge_Fig0.png)
 
 There are several noteable statistics based on this table:
@@ -27,6 +28,7 @@ There are several noteable statistics based on this table:
  
  ### Noteable Line Graph Insights
  **Summary line graph**:
+
 ![Challenge_Fig1](/Resources/Challenge_Fig1.png)
  
  This line graph also tells us important pieces of info related to time detail of the the data: 
