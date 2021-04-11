@@ -12,7 +12,7 @@ More specifically the analysis in this report summarizes ride-sharing data (numb
 
 **Summary Table:**
 
-![Challenge_Fig0](/Resources/Challenge_Fig0.png)
+![Challenge_Fig0](/analysis/Challenge_Fig0.png)
 
 There are several noteable statistics based on this table:
 1. Though there are a lot less drivers in Rural cities compared to Suburban and Urban cities, drivers in Rural cities are more often to get a fare and are more likely to make higher fares than drivers in other types of cities. The high competition for drivers in this way makes it more profitable to be a driver in Rural areas. (Note: Missing from this set of numbers if the time spent per ride which could provide more insight)
@@ -29,7 +29,7 @@ There are several noteable statistics based on this table:
  ### Noteable Line Graph Insights
  **Summary line graph**:
 
-![Challenge_Fig1](/Resources/Challenge_Fig1.png)
+![Challenge_Fig1](/analysis/Challenge_Fig1.png)
  
  This line graph also tells us important pieces of info related to time detail of the the data: 
  1. There are far more spikes in Urban Fares on a week-by-week basis. 
