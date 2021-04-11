@@ -8,9 +8,9 @@ More specifically the analysis in this report summarizes ride-sharing data (numb
 
 ## Results
 
-### Noteable Summary statistics
+### Noteable Summary Insights
 
-Summary Table:
+**Summary Table:**
 ![Challenge_Fig0](/Resources/Challenge_Fig0.png)
 
 There are several noteable statistics based on this table:
@@ -20,11 +20,13 @@ There are several noteable statistics based on this table:
 
 3. Total Fares from Urban cities are much higher than Suburban and Rural cities. But where the total rides increases from Suburban to Urban cities by 89%, the total fares difference is only 41% between Suburban and Urban. Compared to Rural rides and fares that increased by 133% and 107% respectively. 
 
-  Calculation:
- 89% -  (Suburban Total Rides + Urban Total Rides /2) / (Urban Total Rides - Suburban Total Rides) *100 
- 41% -  (Suburban Total Fares + Urban Total Fares /2) / (Urban Total Fares - Suburban Total Fares) *100 
+  **Calculation:**
+ > 89% -  (Suburban Total Rides + Urban Total Rides /2) / (Urban Total Rides - Suburban Total Rides) *100 
  
- Summary line graph:
+ > 41% -  (Suburban Total Fares + Urban Total Fares /2) / (Urban Total Fares - Suburban Total Fares) *100 
+ 
+ ### Noteable Line Graph Insights
+ **Summary line graph**:
 ![Challenge_Fig1](/Resources/Challenge_Fig1.png)
  
  This line graph also tells us important pieces of info related to time detail of the the data: 
